@@ -1,0 +1,8 @@
+{
+  "name": "Addon",
+  "main": "Index.js",
+  "dependencies": {
+    "cmake-js": "^3.5.0",
+    "graceful-fs": "^4.1.11"
+  }
+}
