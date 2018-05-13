@@ -1,0 +1,6 @@
+{
+  "name": "myaddon",
+  "dependencies": {
+    "bindings": "^1.3.0"
+  }
+}
